@@ -5,32 +5,30 @@ This project is a reward-based engagement system built with Flask and MySQL. It 
 ## Define measurable engagement metrics and Point - Based Rewards
 Measurable engagement metrics track user activities on the platform, which are used to determine the rewards they earn. Below are some engagement activities and their respective metrics:
 
-Referrals: First Referral = 1000 Kyn coins nd subsequent 500 Kyn coins
-Event Bookings:each Booking = 300 Kyn coins.
-Daily Activity: Daily tasks that users must complete (e.g., posting, commenting, etc.). 5 Kyn coins for each
+Referrals: First Referral = 1000 Kyn coins nd subsequent 500 Kyn coins <br>
+Event Bookings:each Booking = 300 Kyn coins. <br>
+Daily Activity: Daily tasks that users must complete (e.g., posting, commenting, etc.). 5 Kyn coins for each <br>
 __New Users:__
-Content Creation: 20 Kyn coins
-Interactions (Likes, Comments, Shares): 15 kyn coins for each
-Logins: 10 Kyn coins
-Live Stream Participation: 20 kyn coins
+Content Creation: 20 Kyn coins <br>
+Interactions (Likes, Comments, Shares): 15 kyn coins for each <br>
+Logins: 10 Kyn coins <br>
+Live Stream Participation: 20 kyn coins <br>
 
 ## Redemption Process ##
-1.Kyn Coins can be redeemed for any Other promotional Brand coupons.
-2. for higher value of kyn coins, it can be redeemed with cashback to wallet, discount of event booking , converted to wallet money.
+1.Kyn Coins can be redeemed for any Other promotional Brand coupons. <br>
+2. for higher value of kyn coins, it can be redeemed with cashback to wallet, discount of event booking , converted to wallet money.<br>
 Sample:
-Get 10% off on your next Booking.
-Earn 20% cashback to your wallet.
-500 kyn coins= 10 wallet amount.
-
-
+Get 10% off on your next Booking. <br>
+Earn 20% cashback to your wallet. <br>
+500 kyn coins= 10 wallet amount. <br>
 
 
 
 ## Features
-Daily Rewards: Users earn coins for logging in daily.
-Coupon Redemption: Redeem Kyn coins for available coupons, with validation for expiry and status.
-Responsive UI: A clean and intuitive interface designed with HTML and Bootstrap.
-Database Integration: MySQL stores user data, reward points, and coupon details.
+Daily Rewards: Users earn coins for logging in daily. <br>
+Coupon Redemption: Redeem Kyn coins for available coupons, with validation for expiry and status. <br>
+Responsive UI: A clean and intuitive interface designed with HTML and Bootstrap. <br>
+Database Integration: MySQL stores user data, reward points, and coupon details. <br>
 
 ## Execution Process
 1. Install Prerequisites:
